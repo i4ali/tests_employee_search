@@ -1,0 +1,8 @@
+Test Plan
+
+1) All the test scenarios are laid out in the specs/searchemployee.e2e.js. Please see that
+2) Would ask to include some more points in the acceptance critera
+    a) for the search box is there any default placeholder text present?
+    b) after the search is complete does the text remain in the search box or cleared?
+    c) is there any autocomplete feature?
+    d) is there a submit button or does the search run as text is entered?
